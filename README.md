@@ -1,5 +1,14 @@
 # React Admin Dashboard
 
+# RBAC Demo
+
+A demo video of the project.
+
+![RBAC Demo Preview](https://github.com/kadirikumar-uptycs/RBAC/blob/master/Kadiri-RBAC.gif)
+
+To view the full video, [click here](https://github.com/kadirikumar-uptycs/RBAC/blob/master/Kadiri-RBAC.mp4).
+
+
 ## Features
 
 ### Authentication and Role-Based Access Control
