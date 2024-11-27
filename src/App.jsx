@@ -66,7 +66,7 @@ const theme = createTheme({
 	},
 });
 
-// Page Transition Wrapper
+
 const PageTransition = ({ children }) => {
 	const location = useLocation();
 

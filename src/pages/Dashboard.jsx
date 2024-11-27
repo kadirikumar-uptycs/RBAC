@@ -18,7 +18,6 @@ import BadgeIcon from '@mui/icons-material/Badge';
 const Dashboard = () => {
     const { user } = useAuth();
 
-    // Variants for Framer Motion animations
     const containerVariants = {
         hidden: { opacity: 0 },
         visible: {
