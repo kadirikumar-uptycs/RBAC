@@ -42,7 +42,7 @@ Each user role has a customized sidebar with role-appropriate routes:
 
 1. Clone the repository
 ```bash
-git clone [https://your-repository-url.git](https://github.com/kadirikumar-uptycs/RBAC.git)
+git clone https://github.com/kadirikumar-uptycs/RBAC.git
 cd RBAC
 ```
 
